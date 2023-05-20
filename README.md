@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Restapi login, clash of clans guide](Restapi login, clash of clans guide)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter and Laravel**
 
 - 📫 How to reach me **riswan20102001@gmail.com**
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riswanrio" alt="riswanrio" /></a> </p>
